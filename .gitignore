@@ -1,0 +1,8 @@
+# Directory-based project format
+.idea/
+**/target/
+
+# File-based project format
+*.ipr
+*.iws
+*.iml
